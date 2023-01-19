@@ -3,3 +3,7 @@ This repository contains the code about the course Network dynamics and learning
 
 
 ## Homework 1
+
+## Homework 2
+
+## Homework 3
